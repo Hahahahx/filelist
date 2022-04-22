@@ -1,0 +1,37 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "commonjs",
+    "declaration": true,
+    "sourceMap": true,
+    // "outDir": "./dist",
+    "noImplicitAny": true,
+    "moduleResolution": "node",
+    // "baseUrl": "./",
+    // "paths": {
+    //   "*": [
+    //     "node_modules/*"
+    //   ]
+    // },
+    // "typeRoots": [
+    //   "types",
+    // ],
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "skipLibCheck": true,
+    "jsx": "preserve",
+    "jsxImportSource": "solid-js",
+    "forceConsistentCasingInFileNames": true
+  },
+  "files": [
+    "./node_modules/solid-scripts/types/solid-app.d.ts"
+  ],
+  "include": [
+    "./**/*"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
