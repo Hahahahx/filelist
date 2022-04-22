@@ -31,11 +31,12 @@ socket.io是websocket的封装库，很好的处理了websocket的心跳等一�
 
 
 ![界面](/docs/show.png)
+![操作](/docs/show.gif)
 
 <!-- mp4格式 -->
-<video id="video" controls="" preload="none" poster="封面">
+<!-- <video id="video" controls="" preload="none" poster="封面">
       <source id="mp4" src="/docs/show.mp4" type="video/mp4">
-</videos>
+</videos> -->
 
 
 ## 进度
