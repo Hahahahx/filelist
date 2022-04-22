@@ -4,11 +4,11 @@
 
 ## 项目技术栈
 
-前端： solidjs、tailwind、socket.io
+前端： solidjs、tailwind、socket.io<br/>
 后端： koa、redis、mysql、socket.io
 
-solidjs是代替react的首选框架，他结合了react hook和jsx的优秀编写方式，以及融合了vue模板，抛弃了沉重的vdom设计，减小运行时压力，速度仅次于原生js。
-tailwind是前端样式解决方案，采用编写样式类名的方式对元素处理。
+solidjs是代替react的首选框架，他结合了react hook和jsx的优秀编写方式，以及融合了vue模板，抛弃了沉重的vdom设计，减小运行时压力，速度仅次于原生js。<br/>
+tailwind是前端样式解决方案，采用编写样式类名的方式对元素处理。<br/>
 socket.io是websocket的封装库，很好的处理了websocket的心跳等一些必要性的特性，比起ws它给予了前后端可以使用的解决方案。ws作为其引擎的方式存在
 
 
